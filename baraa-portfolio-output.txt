@@ -5,7 +5,7 @@ PROJECT EXPORT FOR LLMs
 PROJECT INFORMATION:
 --------------------------------------------------
 Project Name: baraa-portfolio
-Generated On: 2026-10-07 21:01:27 (Asia/Damascus / GMT+03:00)
+Generated On: 2026-10-07 21:38:30 (Asia/Damascus / GMT+03:00)
 Total Files Processed: 3
 Export Tool: Easy Whole Project to Single Text File for LLMs v1.1.0
 Tool Author: Jota / José Guilherme Pandolfi
@@ -24,7 +24,7 @@ PROJECT STRUCTURE
 ================================================================================
 ├── 📁 assets/
 ├── 📄 index.html (25.92 KB)
-├── 📄 script.js (929 B)
+├── 📄 script.js (933 B)
 └── 📄 style.css (10.2 KB)
 
 ================================================================================
@@ -34,7 +34,7 @@ Total Files: 3
 Total Directories: 1
 Text Files: 3
 Binary Files: 0
-Total Size: 37.03 KB
+Total Size: 37.04 KB
 
 FILE TYPES DISTRIBUTION:
 ------------------------------
@@ -59,7 +59,7 @@ Language: html
 Location: index.html
 Relative Path: root
 Created: 2026-10-07 09:23:09 (Asia/Damascus / GMT+03:00)
-Modified: 2026-10-07 21:01:27 (Asia/Damascus / GMT+03:00)
+Modified: 2026-10-07 21:38:29 (Asia/Damascus / GMT+03:00)
 MD5: 3ed2abaa7a0785e60d31ac03acbc21d0
 SHA256: fb9b6ee502386ec404a1f4aa24a3cc0b301e3729925addb2cb9930fb934f5f63
 Encoding: UTF-8
@@ -1141,15 +1141,15 @@ FILE: script.js
 
 FILE INFORMATION:
 ----------------------------------------
-Size: 929 B
+Size: 933 B
 Extension: .js
 Language: javascript
 Location: script.js
 Relative Path: root
 Created: 2026-10-07 09:24:00 (Asia/Damascus / GMT+03:00)
-Modified: 2026-10-07 09:25:57 (Asia/Damascus / GMT+03:00)
-MD5: e1d87bb35ca7d8178659019b02a91a5a
-SHA256: ca8d28c4fb440389c3bd9e599249eb726e0a155d3a1efee9905976d2440fa39f
+Modified: 2026-10-07 21:37:35 (Asia/Damascus / GMT+03:00)
+MD5: 8a860d09b3b707ffb83f5ccc6c8c95bd
+SHA256: 98ced9aff5970f1eb76f98b479396f53c172797254c91fb93da338623151e9cc
 Encoding: ASCII
 
 FILE CONTENT:
@@ -1196,6 +1196,8 @@ navigationLinks.forEach(function (link) {
     });
 
 });
+
+
 ================================================================================
 
 
@@ -1211,9 +1213,9 @@ Language: css
 Location: style.css
 Relative Path: root
 Created: 2026-10-07 09:23:29 (Asia/Damascus / GMT+03:00)
-Modified: 2026-10-07 09:25:32 (Asia/Damascus / GMT+03:00)
-MD5: 07f90b0118ea5ee1177c2440d711e264
-SHA256: 94ffd5a6f442951198f670943a6243e65653f6592aa0b3b6808e19064b79c1aa
+Modified: 2026-10-07 21:37:32 (Asia/Damascus / GMT+03:00)
+MD5: bde1234ae42898ec831b645a9dfd9c31
+SHA256: e6fb65b9d38298b1938feefbfa6e426fffbf8909dd005d8359c298b9e2db3043
 Encoding: ASCII
 
 FILE CONTENT:
@@ -1949,4 +1951,6 @@ footer {
     }
 
 }
+
+
 ================================================================================

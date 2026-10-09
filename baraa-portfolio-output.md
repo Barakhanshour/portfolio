@@ -3,8 +3,8 @@
 ## 📊 Project Information
 
 - **Project Name**: `baraa-portfolio`
-- **Generated On**: 2026-10-07 21:38:30 (Asia/Damascus / GMT+03:00)
-- **Total Files Processed**: 3
+- **Generated On**: 2026-10-09 19:28:26 (Asia/Damascus / GMT+03:00)
+- **Total Files Processed**: 4
 - **Export Tool**: Easy Whole Project to Single Text File for LLMs v1.1.0
 - **Tool Author**: Jota / José Guilherme Pandolfi
 
@@ -21,7 +21,8 @@
 
 ```
 ├── 📁 assets/
-├── 📄 index.html (25.92 KB)
+│   └── 📄 Baraa_Khanshour_CV1.pdf (948.4 KB)
+├── 📄 index.html (26.21 KB)
 ├── 📄 script.js (933 B)
 └── 📄 style.css (10.2 KB)
 ```
@@ -40,34 +41,41 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Files | 3 |
+| Total Files | 4 |
 | Total Directories | 1 |
 | Text Files | 3 |
-| Binary Files | 0 |
-| Total Size | 37.04 KB |
+| Binary Files | 1 |
+| Total Size | 985.72 KB |
 
 ### 📄 File Types Distribution
 
 | Extension | Count |
 |-----------|-------|
+| `.pdf` | 1 |
 | `.html` | 1 |
 | `.js` | 1 |
 | `.css` | 1 |
 
 ## 💻 File Code Contents
 
+## 🚫 Binary/Excluded Files
+
+The following files were not included in the text content:
+
+- `assets/Baraa_Khanshour_CV1.pdf`
+
 ### <a id="📄-index-html"></a>📄 `index.html`
 
 **File Info:**
-- **Size**: 25.92 KB
+- **Size**: 26.21 KB
 - **Extension**: `.html`
 - **Language**: `html`
 - **Location**: `index.html`
 - **Relative Path**: `root`
 - **Created**: 2026-10-07 09:23:09 (Asia/Damascus / GMT+03:00)
-- **Modified**: 2026-10-07 21:38:29 (Asia/Damascus / GMT+03:00)
-- **MD5**: `3ed2abaa7a0785e60d31ac03acbc21d0`
-- **SHA256**: `fb9b6ee502386ec404a1f4aa24a3cc0b301e3729925addb2cb9930fb934f5f63`
+- **Modified**: 2026-10-09 19:28:25 (Asia/Damascus / GMT+03:00)
+- **MD5**: `d15678e42408783100a00efa61dfa8b5`
+- **SHA256**: `60e1d5a075301d2c7ac68c910e344aa9aa2aeb46e6bd39f0c55a8e329dc3621c`
 - **Encoding**: UTF-8
 
 **File code content:**
@@ -216,7 +224,7 @@
                 <div class="social-links">
 
                     <a
-                        href="#"
+                        href="https://github.com/Barakhanshour"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -225,7 +233,7 @@
 
 
                     <a
-                        href="#"
+                        href="https://www.linkedin.com/in/bara-khanshour-428a99381?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -1052,7 +1060,7 @@
                     -->
 
                     <a
-                        href="mailto:your-email@example.com"
+                        href="mailto:bra61339@gmail.com"
                         class="btn primary-btn"
                     >
                         Send Email
@@ -1065,7 +1073,7 @@
                     -->
 
                     <a
-                        href="#"
+                        href="https://github.com/Barakhanshour"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="btn secondary-btn"
@@ -1080,7 +1088,7 @@
                     -->
 
                     <a
-                        href="#"
+                        href="https://www.linkedin.com/in/bara-khanshour-428a99381?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="btn secondary-btn"
